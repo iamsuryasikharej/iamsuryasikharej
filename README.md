@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsuryasikharej
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript and c
+- 👀 I’m interested in programming, Linux , development
+- 🌱 I’m currently learning Operating System , System Architecture , Algorithm Designs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whatsapp: +91 7605855625
 -  email:- iamssrofficial@gmail.com
