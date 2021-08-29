@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Operating System , System Architecture , Algorithm Designs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whatsapp: +91 7605855625
+- LinkedIn- www.linkedin.com/in/suryasikharej
 -  email:- iamssrofficial@gmail.com
 
 <!---
